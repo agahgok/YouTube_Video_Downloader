@@ -22,4 +22,4 @@ For this application to work, PyQt and PyTube libraries must be installed on you
 
 
 
-![Screenshot from 2023-08-04 14-43-47](https://github.com/agahgok/YouTube_Video_Downloader/assets/91431291/36294133-671c-472e-9741-0aebd85ac1a1)
+![Screenshot from 2023-08-04 14-43-39](https://github.com/agahgok/YouTube_Video_Downloader/assets/91431291/e5f31a90-03ce-4ae1-ac06-0faf635c89b3)
